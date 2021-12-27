@@ -1,0 +1,18 @@
+.TitleList {
+  margin: 5px 0;
+  padding: 2px;
+  text-align: left;
+  background-color: rgb(218, 237, 240);
+  border-radius: 3px;
+}
+
+.TitleList p {
+  margin: 5px;
+  padding: 0;
+}
+
+.List {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
